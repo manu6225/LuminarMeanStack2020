@@ -1,0 +1,17 @@
+h3{
+    color: blueviolet;
+    
+}
+body{
+    background-color:gray;
+}
+#sec{
+
+    border-style: dotted;
+    border-color: red;
+}
+
+.one{
+
+    color: greenyellow;
+}

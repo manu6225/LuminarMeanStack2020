@@ -1,0 +1,22 @@
+#top{
+    width: 50%;
+    color: red;
+    border-style: dotted;
+    border-color: black;
+    margin-left: 35%;
+    padding-left: 25%;
+    margin-top: 20;
+}
+
+#bottom{
+    width: 50%;
+    color: green;
+    border-style: dotted;
+    border-color: blueviolet;
+    margin-top: 35%;
+    margin-left: 35%;
+    padding-left: 25%;
+}
+h1{
+    font-family: 'Grenze Gotisch', cursive;
+}

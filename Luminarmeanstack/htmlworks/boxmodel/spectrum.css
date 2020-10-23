@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-family: 'Grenze Gotisch', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+table{
+    margin-left: 30px;
+}
+td{
+    width: 100px;
+    height: 200px;
+    padding: 50px;
+    border-style: solid;
+    border-color: white;
+}
+#td1{
+    background-color: aqua;
+}
+#td2{
+    background-color: blue;
+}
+#td3{
+    background-color: blueviolet;
+}
+#td4{
+    background-color: chocolate;
+}
+#td5{
+    background-color: darkslategray;
+}

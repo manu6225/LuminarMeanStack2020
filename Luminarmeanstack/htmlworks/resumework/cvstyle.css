@@ -1,0 +1,16 @@
+h1{
+    color: #7a5b3b;
+    text-shadow: chocolate;
+    font: size 30px;;
+    
+}
+h2{
+    color:#7a532b;
+}
+#row{
+    background-color: darkgrey;
+}
+p{
+    font-size: large;
+    font-style: normal;
+}

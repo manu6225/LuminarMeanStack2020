@@ -1,0 +1,33 @@
+h1{
+
+    color: red;
+}
+body{
+
+    background-color: rgb(41, 242, 172);
+}
+
+h2{
+
+    color: #c73aa4;
+}
+
+#one{
+    color: slateblue;
+}
+
+#second{
+    border-style: dotted;
+    border-color: orangered;
+}
+
+.third{
+    background-color: slategrey;
+    border-style: dashed;
+    border-color: yellow;
+}
+
+div{
+    border-style: dotted;
+    border-color: olivedrab;
+}
